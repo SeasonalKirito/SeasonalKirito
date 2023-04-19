@@ -1,7 +1,7 @@
 ## Hey, I'm Seasonal! 👋
  
 - 📫 Reach me at [Discord](https://discord.gg/BWpBU6Cy4j) for questions, concerns, and with cat photos
-- ⚡ Connect with me on [Roblox](https://www.linkedin.com/in/isaackogan/](https://www.roblox.com/users/4368053792/profile). Note that I only accept connections to people I know
+- ⚡ Connect with me on [Roblox](https://www.roblox.com/users/4368053792/profile). Note that I only accept connections to people I know
 
 ### A Little About Me
 
