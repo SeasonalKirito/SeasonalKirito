@@ -1,5 +1,27 @@
+## Hey, I'm Seasonal! 👋
+ 
+- 📫 Reach me at [Discord](https://discord.gg/BWpBU6Cy4j) for questions, concerns, and with cat photos
+- ⚡ Connect with me on [Roblox]([https://www.linkedin.com/in/isaackogan/](https://www.roblox.com/users/4368053792/profile)). Note that I only accept connections to people I know
 
+### A Little About Me
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SeasonalKirito&theme=nord)](https://git.io/streak-stats)
+```lua
 
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+-- Roblox :(
+
+local Seasonal = {
+  age = 13,
+  launguages = 1, -- Lua only :(
+  schools = 1,
+}
+
+local Projects = {
+  hub = "Fear - V1",
+}
+
+local Socials = {
+  scriptblox = "",
+  youtube = "https://www.youtube.com/channel/UC5AIr03WbjrJjb8wx_rkclQ",
+}
+
+```
