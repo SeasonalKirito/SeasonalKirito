@@ -20,7 +20,7 @@ local Projects = {
 }
 
 local Socials = {
-  scriptblox = "",
+  scriptblox = "https://scriptblox.com/u/Seasonal",
   youtube = "https://www.youtube.com/channel/UC5AIr03WbjrJjb8wx_rkclQ",
 }
 
