@@ -25,3 +25,4 @@ local Socials = {
 }
 
 ```
+[![Discord Presence](https://lanyard.cnrad.dev/api/769518569967845387)](https://discord.com/users/769518569967845387)
