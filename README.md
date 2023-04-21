@@ -10,8 +10,6 @@
 
 ```lua
 
--- Roblox :(
-
 local Seasonal = {
   age = 13,
   launguages = 1, -- Lua only :(
