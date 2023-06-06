@@ -12,7 +12,7 @@
 
 local Seasonal = {
   age = 13,
-  launguages = 1, -- Lua only :(
+  launguages = 4, -- Lua, python, html, css
   schools = 1,
 }
 
