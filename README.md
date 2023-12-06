@@ -11,18 +11,17 @@
 ```lua
 
 local Seasonal = {
-  age = 13,
-  launguages = 4, -- Lua, python, html, css
-  schools = 1,
+  age = ...,
+  launguages = 4
 }
 
 local Projects = {
-  hub = "Fear - V1",
+  hub = "Fear - V1"
 }
 
 local Socials = {
   scriptblox = "https://scriptblox.com/u/Seasonal",
-  youtube = "https://www.youtube.com/channel/UC5AIr03WbjrJjb8wx_rkclQ",
+  youtube = "https://www.youtube.com/channel/UC5AIr03WbjrJjb8wx_rkclQ"
 }
 
 ```
