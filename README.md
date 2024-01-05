@@ -1,5 +1,5 @@
 ## Hey, I'm Seasonal! 👋
-![](https://komarev.com/ghpvc/?username=SeasonalKirito&color=grey&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=SeasonalKirito&color=grey)
 ```py
 class AboutMe:
     def __init__(self):
