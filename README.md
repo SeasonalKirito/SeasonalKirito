@@ -1,5 +1,17 @@
 ## Hey, I'm Seasonal! 👋
-#### Im lazy 🛌💤
+```py
+class AboutMe():
+    def __init__(self):
+        self.languages = ["python", "luau", "html", "css", "javascript"]
+        self.projects = ["ClientSettingsSetup", "pyhwidauth", "animalpy", "pystringkit", "pycolorconsole"]
+
+    def _about_me(self):
+        for project in self.projects:
+            print(project)
+
+AboutMe = AboutMe()
+AboutMe._about_me()
+```
 ```
 ⠀⠀⠀⠀⠀⡀⠀⠀⠀⠨⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠽⠅⠀⠀⠀⠀⠀⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
