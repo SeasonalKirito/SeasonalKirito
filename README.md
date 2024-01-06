@@ -1,5 +1,4 @@
 ## Hey, I'm Seasonal! 👋
-![](https://komarev.com/ghpvc/?username=SeasonalKirito&color=grey)
 ```py
 class AboutMe:
     def __init__(self):
@@ -35,3 +34,4 @@ banner = """
 ⠀⠀⠀⠀⠀⠀⠀⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠻⢮⣭⠵⠞⠉⠉⠉⠉⠙⠛⠛⠉⠛⠋⠉⠛⠛⠛⠛⠋⠉⠁⠀⠀⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀
 """
 ```
+![](https://komarev.com/ghpvc/?username=SeasonalKirito&color=grey)
